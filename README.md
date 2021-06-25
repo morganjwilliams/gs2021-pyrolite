@@ -17,7 +17,7 @@ geochemical data. For more information on `pyrolite`, visit the
 [a gallery of examples](https://pyrolite.readthedocs.io/en/develop/examples/index.html).
 
 
-To view the notebooks for this workshop, follow the link below:
+To view the example notebooks associated with the presentation, follow the link below:
 
 |   View and Run Notebooks on Binder   |
 |:-------:|
